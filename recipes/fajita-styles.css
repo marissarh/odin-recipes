@@ -1,0 +1,15 @@
+p, ul, ol{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+h1{
+    background-color: rgb(162, 231, 162);
+    color: rgb(42, 109, 42);
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(162, 231, 162);
+    color: rgb(42, 109, 42);
+}
